@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/voterviz/static/css/main.53fc0e4e.chunk.css",
-    "main.js": "/voterviz/static/js/main.3257ec96.chunk.js",
-    "main.js.map": "/voterviz/static/js/main.3257ec96.chunk.js.map",
-    "runtime~main.js": "/voterviz/static/js/runtime~main.bb0181c8.js",
-    "runtime~main.js.map": "/voterviz/static/js/runtime~main.bb0181c8.js.map",
-    "static/js/2.db7d9b95.chunk.js": "/voterviz/static/js/2.db7d9b95.chunk.js",
-    "static/js/2.db7d9b95.chunk.js.map": "/voterviz/static/js/2.db7d9b95.chunk.js.map",
-    "index.html": "/voterviz/index.html",
-    "precache-manifest.bfe1c2b9bf6fc96ae9f4c0fb0c031454.js": "/voterviz/precache-manifest.bfe1c2b9bf6fc96ae9f4c0fb0c031454.js",
-    "service-worker.js": "/voterviz/service-worker.js",
-    "static/css/main.53fc0e4e.chunk.css.map": "/voterviz/static/css/main.53fc0e4e.chunk.css.map"
+    "main.css": "/votermap/static/css/main.53fc0e4e.chunk.css",
+    "main.js": "/votermap/static/js/main.88ea3745.chunk.js",
+    "main.js.map": "/votermap/static/js/main.88ea3745.chunk.js.map",
+    "runtime~main.js": "/votermap/static/js/runtime~main.9b31c03a.js",
+    "runtime~main.js.map": "/votermap/static/js/runtime~main.9b31c03a.js.map",
+    "static/js/2.db7d9b95.chunk.js": "/votermap/static/js/2.db7d9b95.chunk.js",
+    "static/js/2.db7d9b95.chunk.js.map": "/votermap/static/js/2.db7d9b95.chunk.js.map",
+    "index.html": "/votermap/index.html",
+    "precache-manifest.12f620364d49e47dd93d020611970330.js": "/votermap/precache-manifest.12f620364d49e47dd93d020611970330.js",
+    "service-worker.js": "/votermap/service-worker.js",
+    "static/css/main.53fc0e4e.chunk.css.map": "/votermap/static/css/main.53fc0e4e.chunk.css.map"
   }
 }
